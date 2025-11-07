@@ -1,4 +1,4 @@
-# Report for bridging-past-and-present-reconstructing-prince-eugenes-library-through-fuzzy-string-matching.ipynb ❤ 
+# Report for article.ipynb ❤ 
 
 Look at the corrections you need to do, if not clear, contact jdh.admin@uni.lu
 
