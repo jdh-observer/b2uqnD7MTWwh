@@ -15,7 +15,7 @@ code: 15
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.12.8**, when **python-3.12.8** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.12.7**, when **python-3.12.8** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -310,8 +310,8 @@ No JavaScript code found in output cells.
 - Cell 19: Tags: ['anchor-string-matching']
   - Invalid tag: anchor-string-matching
 - Cell 30: Tags: ['figure-matching-example-*']
-- Cell 32: Tags: ['table-example-modern-catalog-*']
-- Cell 33: Tags: ['table-example-matches-*']
+- Cell 32: Tags: ['table-1']
+- Cell 33: Tags: ['table-2']
 - Cell 34: Tags: ['hermeneutics']
 - Cell 35: Tags: ['hermeneutics']
 - Cell 36: Tags: ['hermeneutics']
