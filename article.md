@@ -628,9 +628,11 @@ Despite these constraints, we consider the methods described in this article a p
 **Acknowledgments.** The project received funding by the Austrian Academy of Sciences through the project call Go!Digital 3.0. We thank Monika Kiegler-Griensteidl, Michael Smuc, Johannes Liem and Max Kaiser for their valuable contributions to the project.
 
 
+<!-- #region editable=true jupyter={"outputs_hidden": false} slideshow={"slide_type": ""} tags=["hidden"] -->
 ## Bibliography
+<!-- #endregion -->
 
-
+<!-- #region editable=true jupyter={"outputs_hidden": false} slideshow={"slide_type": ""} tags=["hidden"] -->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|9147593/IMN72Z3I"></i>Almazroi, A. A., A. A. Shah, A. A. Almazroi, F. Mohammed, and N. H. Al-Kumaim. 2022. “A Survey of the Hybrid Exact String Matching Algorithms.” In <i>Advances on Intelligent Informatics and Computing (IRICT 2021)</i>, edited by F. Saeed, F. Mohammed, and F. Ghaleb. Vol. 127. Lecture Notes on Data Engineering and Communications Technologies. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-98741-1_16">https://doi.org/10.1007/978-3-030-98741-1_16</a>.</div>
@@ -657,3 +659,4 @@ Perspektiven aus dem Projekt Bibliotheca Eugeniana Digital.” <i>Bibliothek –
   <div class="csl-entry"><i id="zotero|9147593/WKYGA6BX"></i>Windhager, Florian, Annerose Tartler, Simon Mayer, Johannes Liem, and Eva Mayr. 2024. “Über Die Ordnung von Materiellen Und Digitalen Dingen: Zur Multi-Klassifikatorischen Visualisierung Der Bibliotheca Eugeniana.” In <i>DHd 2024 Quo Vadis DH</i>. Passau, Germany. <a href="https://doi.org/10.5281/zenodo.10698329">https://doi.org/10.5281/zenodo.10698329</a>.</div>
 </div>
 <!-- BIBLIOGRAPHY END -->
+<!-- #endregion -->
