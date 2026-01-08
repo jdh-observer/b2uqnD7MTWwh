@@ -1,6 +1,6 @@
 # Bridging Past and Present: Reconstructing Prince Eugene’s Library through Fuzzy String Matching
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/b2uqnD7MTWwh/lab?filepath=article.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/b2uqnD7MTWwh/HEAD?labpath=article.ipynb)
 
 ## Abstract
 
